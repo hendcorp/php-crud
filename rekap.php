@@ -40,6 +40,7 @@ apex_search.search = function(e){
 }
 </script>
 </head>
+
 <body onload="apex_search.init();">
 <div class="container">
 <?php include "module/nav.php"; ?>
