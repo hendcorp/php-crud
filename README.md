@@ -1,6 +1,10 @@
 # php-crud
 Simple CRUD (Create, Read, Update, Delete) with PHP, MySQL and Bootstrap.
 
+#Latest Updates
+1. Add Dynamic Search features in Rekap <code>rekap.php</code>
+2. Add Export to Excel features <code>export.php</code>
+
 # Features
 1. PHP Function
 2. Validation form with jQuery
