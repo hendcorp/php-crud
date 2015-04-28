@@ -14,4 +14,4 @@ Simple CRUD (Create, Read, Update, Delete) with PHP, MySQL and Bootstrap.
 # How to run:
 1. Copy and Paste crudphp into htdocs folder.
 2. Import DB crud (crud.sql) to phpMyAdmin.
-3. Run from the browser via http://localhost/crudphp
+3. Run from the browser via http://localhost/[project-directory]
